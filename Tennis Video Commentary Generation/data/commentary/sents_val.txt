@@ -1,0 +1,42 @@
+P00000055	good serve in the middle fp smashes a ls return which np is unable to return
+P00000056	fine serve fp cross-court rs return fails to land inside the court
+P00000057	quick serve fp returns a quick rs return good rally np whips a ls cross-court winner
+P00000058	np serves a good one fp puts back a ls return good rally fp sends a ls long of the court
+P00000059	np arrows a bodyline serve fp struggles with it
+P00000178	good serve in the middle fp returns a rs return short rally fp cross-court rs lands out-side the court
+P00000179	fine serve fp delivers a rs return brief rally np sends a rs cross-court out of the court
+P00000180	np serves a good one fp crafts a rs return extended rally fp puts a ls into the net
+P00000181	np serves a high kick serve fp returns a rs return rally fp cross-court ls lands out-side the court
+P00000182	quick serve fp delivers a rs return couple of shots exchanged np charges towards the net and hits a ls volley winner
+P00000260	good serve in the middle np returns a ls return short rally np hits a cross-court rs winner
+P00000261	good serve in the middle np crafts a ls return short rally np hits a cross-court ls into the net
+P00000262	quick serve np works a rs return fp hits a ls long
+P00000263	double fault
+P00000264	quick serve down the t np hits a ls return good rally fp hits a cross-court ls winner
+P00000265	good serve np crafts a ls return short rally np hits a ls winner
+P00000568	nice kick serve fp fails to return it
+P00000569	np aims a fine serve wide fp hits a rs return long
+P00000570	good serve fp manages a rs return a few shots exchanged np comes to net and hits a smash winner
+P00000571	good serve in the middle fp returns a rs return np hits a ls drop-shot winner
+P00000572	huge serve guided at t np puts back a ls return fp cracks a rs winner cross-court
+P00000573	nice kick serve np manages a ls return a few shots exchanged np rs lands long
+P00000574	fp serves a good one np works a ls return long rally np hits a ls straight into the net
+P00000575	good serve out wide np returns a ls return fp rs slice drop-shot fails to make it over the net
+P00000576	fine serve np rs return just lands long of the court
+P00000577	fp goes for a out-wide serve np crafts a rs return good rally fp struggles to keep a ls in play
+P00000578	good serve aimed at t np returns a rs return fp hits a ls cross-court but it lands wide
+P00000579	great serve out wide is an ace
+P00000580	fp arrows a good serve at t np is unable to return it
+P00000581	fp arrows a good serve at t np is unable to return it
+P00000582	fp hits a good serve in the corner np hits a ls into the net in the middle
+P00000583	good bodyline serve fp returns a ls into the net
+P00000584	good serve in the middle fp returns a rs return np slams a rs winner
+P00000585	good serve in the middle fp returns a rs return brief rally fp nets a ls on the run
+P00000586	np serves a good one in the corner fp manages a rs return np overcooks a rs long
+P00000587	good serve in the middle fp returns a rs return good rally fp overcooks a ls long
+P00000723	lightening serve down the t is an ace
+P00000724	quick serve wide is an ace
+P00000725	good serve in the middle np crafts a ls return rally np rushes in quickly and volleys a ls winner
+P00000726	sizzling serve in the corner is an ace
+P00000727	fp serves a good one np delivers a rs return short rally np flashes a rs cross-court winner
+P00000728	good serve in the middle np returns a quick rs return short rally np cross-court fails to clear the net in the middle

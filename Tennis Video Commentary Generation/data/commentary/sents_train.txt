@@ -1,0 +1,550 @@
+P00000001	high kick serve fp returns a ls return short rally fp cross-court rs lands out-side the court
+P00000002	np a good serve fp is unable to return it
+P00000003	np aims a fine serve at t fp is unable to return it
+P00000004	np aims a fine serve at t fp has no answer to it
+P00000005	double fault
+P00000006	fine serve fp delivers a rs return brief rally np sends a rs cross-court out of the court
+P00000007	np aims a bodyline serve fp works a rs return np struggles to keep a cross-court ls in a rally
+P00000008	np serves a good one fp puts back a ls return good rally fp hits a ls winner down the line
+P00000009	good serve in the middle np crafts a ls return fp cross-court ls fails to land inside the court
+P00000010	fp serves wide np works a ls return brief rally fp cross-court rs fails to land inside the court
+P00000011	fp hits a good serve np struggles with it before hitting a ls into the net
+P00000012	quick serve is an ace
+P00000013	good serve wide np returns a quick rs return short rally np hits a ls long and out of court
+P00000014	quick serve out wide is an ace
+P00000015	serve aimed in the corner np returns a rs return short rally np comes in quickly and smashes a rs winner
+P00000016	good serve aimed at t it's an ace
+P00000017	quick serve np returns a quick ls return couple of shots exchanged fp sprays a ls outside the court
+P00000018	good serve aimed at t np only reaches to it short rally np cross-court fails to clear the net in the middle
+P00000019	heavy serve out wide np returns a quick rs return short rally fp strokes a rs cross-court winner which clips the net
+P00000020	second serve doesn't make it over the net double fault
+P00000021	quick serve np returns a rs return couple of shots exchanged fp pulls a ls cross-court into the net
+P00000022	good serve in the middle np returns a quick rs return short rally np cross-court fails to clear the net in the middle
+P00000023	huge serve guided at t np returns a quick ls return brief rally fp sends a rs wide out of the court
+P00000024	quick serve np crafts a rs return couple of shots exchanged np hits a rs winner deep into the back corner
+P00000025	np hits a flat serve wide short rally fp struggles to get a rs over then net
+P00000026	np hits a flat serve down the t fp has no answer to it
+P00000027	gigantic serve wide is an ace
+P00000028	np serves a good one fp puts back a ls return good rally fp cracks a rs winner down the line
+P00000029	double fault
+P00000030	high kick serve wide is an ace
+P00000031	high kick serve fp returns a rs return short rally fp miss hits putting the ball out wide
+P00000032	np serves a heavy serve down the middle which fp returns long
+P00000033	np aims a fine serve at t a couple of shots exchanged before fp hits a ls long
+P00000034	nice serve guided at t fp puts back a rs return before a np rs flies outside the court
+P00000035	good serve in the middle fp generates a rs return winner
+P00000036	np serves down the t fp returns a ls return brief rally np fails to keep a cross-court ls in the play
+P00000037	quick serve fp returns a rs return hard fought rally np flashes a rs cross-court winner
+P00000038	double fault
+P00000039	good serve fp returns a quick ls return short rally fp cracks a rs winner down the line
+P00000040	fine serve fp puts back a rs return good rally np puts a ls volley into the net
+P00000041	fast serve down the t is an ace
+P00000042	fp arrows a good serve at t np is unable to return it
+P00000043	fine serve placed at t np returns a quick ls return couple of shots exchanged fp cross-court fails to clear the net in the middle
+P00000044	fp aims a high kick serve np puts back a ls return good rally fp produces a ls cross-court winner
+P00000045	sharp angled slice serve np only reaches to it
+P00000046	fine serve np shoots a ls return winner
+P00000047	quick serve np returns a quick rs return couple of shots exchanged np nets a rs down the line
+P00000048	good serve couple of shots exchanged before fp puts the ball into the net
+P00000049	good serve down the t a few shots exchanged before fp hits a rs wide of the court
+P00000050	fp serves np replies by smashing a rs winner down the line
+P00000051	np hits a good serve fp struggles with it returning it long
+P00000052	np serves a good one fp delivers a rs return good rally fp cross-court ls fails to land inside the court
+P00000053	high kick serve fp crafts a rs return short rally np strokes a ls cross-court winner
+P00000054	fine serve fp puts back a rs return brief rally np smacks a rs winner down the line
+P00000082	slice serve fp fails to put it back
+P00000083	fine serve fp is unable to return it inside the courts
+P00000084	gigantic serve out wide is an ace
+P00000085	high kick serve fp returns a quick rs return np kicks a ls down the line out of the court
+P00000086	np aims a bodyline serve fp returns a rs return np hits a rs cross-court winner
+P00000087	np aims a fine serve at t fp only manages to touch it
+P00000088	high kick serve fp crafts a rs return rally fp thumps a ls winner down the line
+P00000089	fine serve fp returns a quick rs return brief rally np sprays a rs outside the court
+P00000090	np aims a high kick serve fp delivers a rs return good rally fp ls goes outside the court
+P00000091	gigantic serve in the middle is an ace
+P00000092	np goes for a out-wide serve fp returns a quick rs return np fails to keep a cross-court rs in the play
+P00000093	np serves a good one fp returns a rs return np runs to the net crafts a rs half-volley but misses the target
+P00000094	np serves a high kick serve fp works a rs return np rs fails to clear the net
+P00000095	quick serve np crafts a ls return rally fp produces a ls cross-court winner
+P00000096	sizzling serve is an ace
+P00000097	fp arrows a bodyline serve np puts back a rs return rally fp hits a ls down the line but fails to clear the net
+P00000098	quick serve np works a ls return fp moves closer to net goes for a ls smash but it goes long
+P00000099	good serve in the middle np returns a quick ls return short rally fp cross-court rs lands out-side the court
+P00000100	fine serve np returns a ls return fp hits a ls down the line that np is unable to return
+P00000101	good server down the t np slices a ls return fp smashes a rs down the line which np is unable to return
+P00000102	good serve aimed at t np rs return doesn't land inside the court
+P00000103	short angled slice serve np only manages to touch it
+P00000104	fp goes for a out-wide serve np returns a ls return couple of shots exchanged fp ls slice doesn't make it over the net
+P00000105	good serve aimed at t np only reaches to it it's an ace
+P00000106	good serve in the middle np works a rs return short rally fp runs to the net crafts a ls volley but misses the target
+P00000107	fp arrows a bodyline serve np crafts a ls return brief rally fp comes in quickly tries a ls volley but fails to clear the net
+P00000108	cannon serve is an ace
+P00000109	fp aims a bodyline serve np works a rs return fp ls lands out-side the court
+P00000110	lightening serve down the t which np is unable to return
+P00000111	fp arrows a good serve np is unable to return it
+P00000112	fp serves a good one np returns a quick rs return fp struggles to keep a cross-court rs in a rally
+P00000113	good serve np crafts a rs return fp ls goes outside the court
+P00000114	quick serve pointed at t np works a rs return brief rally np hits a ls wide of the court
+P00000115	fp serves a good one np delivers a rs return good rally np cross-court rs goes into the the net
+P00000116	fp serves a high kick serve np returns a ls return fp struggles to keep a cross-court ls in a rally
+P00000117	slice serve aimed in the middle np returns a ls return fp sprays a cross-court ls wide of the court
+P00000118	fp serves a good one out wide np ls return fails to make it over the net
+P00000119	fp serves a acute angled slice serve np crafts a rs return couple of shots exchanged np hits a rs down the line but fails to clear the net
+P00000120	nice serve by fp np faces difficulty in returning it
+P00000121	sharp angled slice serve fp's return goes long
+P00000122	good serve aimed at t fp only reaches to it
+P00000123	good serve in the middle fp dumps a rs return into the net
+P00000124	fine serve fp works a ls return np rs down the line fails to clear the net
+P00000125	sharp angled slice serve fp's return goes long
+P00000126	good serve in the middle fp delivers a rs return rally np ls slice fails to clear the net
+P00000127	np goes for a out-wide serve fp crafts a rs return couple of shots exchanged np goes for a rs slice but falters with it
+P00000128	np hits a acute angled slice serve fp works a ls return well contensted rally fp strokes a ls cross-court winner
+P00000129	good serve fp fails to put it back
+P00000130	np serves a slice serve fp delivers a ls return np flashes a rs cross-court winner
+P00000131	np aims a high kick serve fp crafts a rs return well contensted rally np moves upto the net and places a ls volley winner
+P00000132	cannon serve is an ace
+P00000133	fine serve fp shoots a rs return winner
+P00000134	quick serve fp delivers a rs return np comes in quickly tries a ls volley but it goes long
+P00000135	np serves a good one fp works a ls return good rally np cross-court ls fails to land inside the court
+P00000136	fine serve np returns a quick ls return fp hits a rs winner down the line
+P00000137	quick serve np returns a rs return fp ls goes into the the net
+P00000138	fp serves a heavy serve which is an ace
+P00000139	good serve in the middle np returns a rs return short rally np hits a ls down the line but misses the court
+P00000140	fp arrows a good serve at t np is unable to return it
+P00000141	nice serve by fp np faces difficulty in returning it
+P00000142	fp serves a high kick serve np works a ls return brief rally fp ls lands out-side the court
+P00000143	short angled slice serve np rs return lands long of the court
+P00000144	fp serves a good one np returns a quick rs return fp sends a ls volley cross-court long
+P00000145	fine serve np's ls return goes long
+P00000146	fine serve np is unable to return it
+P00000147	quick serve np works a ls return couple of shots exchanged fp rs slice goes into the net
+P00000148	nice serve by fp np faces difficulty in returning it in the court
+P00000149	slice serve np returns a rs return short rally np rushes in quickly and volleys a ls winner
+P00000150	fp produces a bodyline serve np delivers a rs return fp cross-court ls goes into the the net
+P00000151	fp serves a good one wide which np returns into the net
+P00000152	fp goes for a bodyline serve np returns a ls return fp cross-court rs catches the net
+P00000153	good serve in the middle fp works a ls return short rally np ls slice fails to clear the net
+P00000154	fine serve fp is unable to return it into court
+P00000155	cannon serve down the t is an ace
+P00000156	nice wide serve by np fp faces difficulty in returning it
+P00000157	good serve aimed at t fp returns a rs return short rally np comes to net and volleys a ls winner
+P00000158	np arrows a good serve at t fp is unable to return it
+P00000159	quick serve fp returns a ls return couple of shots exchanged fp pushes a rs long
+P00000160	good serve aimed at t fp only reaches to it
+P00000161	np serves a high kick serve fp rs slice goes outside the court
+P00000162	sharp angled slice serve np returns a rs return couple of shots exchanged np slaps a rs cross-court winner
+P00000163	good serve in the middle np returns a quick rs return rally fp rushes in quickly and volleys a rs winner
+P00000164	acute angled slice serve np puts back a rs return lengthy exchange between the players fp rushes to net and hits a ls smash winner
+P00000165	heavy serve aimed at t np crafts a rs return rally np surges towards the net and hits a rs volley winner
+P00000166	good serve in the middle short rally fp ls finds the net in the middle
+P00000167	fine serve np is unable to return it
+P00000168	fp hits a slice serve np returns a quick rs return fp cross-court ls lands wide of the court
+P00000169	fp serves a good one np delivers a rs return well contensted rally np reaches to the net and places a rs volley winner
+P00000170	good serve in the middle np works a rs return np comes to net and hits a ls volley winner
+P00000171	fine serve np crafts a ls return fp's ls goes long
+P00000172	sharp angled slice serve np returns a rs return fp whips a rs cross-court winner
+P00000173	fp serves a good one np delivers a rs return fp ls taps the net tape and flies outside the court
+P00000174	fp aims a wide serve np delivers a rs return short rally np struggles to keep a cross-court ls in the court
+P00000175	fine serve np works a rs return brief rally np slices a ls but catches the net
+P00000176	fp hits a good serve np struggles with it
+P00000177	fp serves a good one np works a rs return rally np ls slice goes wide of the court
+P00000211	good serve in the middle fp returns a rs return short rally fp thumps a rs cross-court winner
+P00000212	fine serve fp delivers a ls return np miss-hits a rs which fails to land inside the court
+P00000213	np hits a good serve fp hits a rs return brief rally fp smashes a ls winner
+P00000214	np serves a good one fp crafts a rs return but it lands wide of the court
+P00000215	good serve in the middle fp returns a quick ls return np hits a rs slice out of the court
+P00000216	np hits a slice serve wide fp returns a ls return a couple of shots exchanged fp ls lob lands outside of the court
+P00000217	np hits a good serve fp returns a rs return good rally np ls down the line lands outside the court
+P00000218	np serves a wide and fast ace
+P00000219	np slams an ace wide
+P00000220	fine serve fp returns a ls np comes to net but pushes a cross-court rs wide
+P00000221	great serve down the t is an ace
+P00000222	fine serve np hits a fast ls return long rally np rs down the line lands long
+P00000223	quick serve np delivers a ls return rally np hits a rs down the line but it's long
+P00000224	fp serves a good one np smashes a ls return winner down the line
+P00000225	good serve np crafts a ls return rally np rushes to net quickly but misses a ls volley
+P00000226	good serve down the t np manages a ls return but fp hits a ls winner down the line
+P00000227	fp hits a good serve np hits a ls return short rally np hits a ls into the net in the middle
+P00000228	fp serves a good one np delivers a ls return good rally fp hits a rs cross-court but it lands wide of the court
+P00000229	great serve down the t is an ace
+P00000230	fp serves a good one np ls return fails to make it over the net
+P00000231	cannon serve is an ace
+P00000232	good serve in the middle fp crafts a ls return short rally fp cross-court ls fails to land inside the court
+P00000233	np aims a serve down the t fp crafts a ls return couple of shots exchanged fp cross-court rs lands out-side the court
+P00000234	good serve in the middle fp returns a rs return np over-cooks a ls down the line
+P00000235	double fault
+P00000236	np serves a good one fp crafts a rs return np rs fails to clear the net in the middle
+P00000237	np serves fp returns a ls return np ls fails to clear the net in the middle
+P00000238	good serve fp fails to put it back
+P00000239	gigantic serve in the middle is an ace
+P00000240	mighty serve is an ace
+P00000241	cannon serve is an ace
+P00000242	fine serve np is unable to return it
+P00000243	fp aims a high kick serve np works a ls return rally np sends a ls into the net
+P00000244	good serve in the middle np returns a quick rs return short rally np struggles to keep a cross-court ls in the court
+P00000245	fp goes for a out-wide serve np returns a ls return couple of shots exchanged np hits a rs cross-court winner
+P00000246	fp serves a good one np works a rs return rally np flashes a rs cross-court winner
+P00000247	good serve in the middle np works a ls return short rally np whips a rs cross-court winner
+P00000248	fine serve np crafts a ls return rally np cracks a ls winner down the line
+P00000249	fp aims a high kick serve ls return from np finds the net
+P00000250	fp serves a short angled slice serve np shoots a rs return winner
+P00000251	fp aims a high kick serve np returns a quick ls return rally np hits a rs winner down the line
+P00000252	fine serve np delivers a ls return fp flashes a ls cross-court winner
+P00000253	heavy serve aimed at t np crafts a rs return couple of shots exchanged fp hits a rs down the line but misses the court
+P00000254	good serve in the middle np returns a ls return fp cross-court rs catches the net
+P00000255	fine serve np delivers a rs return brief rally fp hits a cross-court which lands long
+P00000256	fp serves a good one np crafts a ls return np rs flies outside the court
+P00000257	cannon serve is an ace
+P00000258	slice serve np fails to put it back into the court
+P00000259	fp aims a serve at the t and it's an ace
+P00000287	good bodyline serve np miss-hits the return which doesn't make it over the net
+P00000288	quick serve np returns a slice ls return huge rally fp whips a ls cross-court winner
+P00000289	high kick serve np returns a quick ls return long rally np ls slice goes straight into the net
+P00000290	fine serve np works a rs return brief rally np smacks a rs winner down the line
+P00000291	fp aims a fine serve at t np ls slice return a few shots np ls hits the net in the middle
+P00000292	good serve out wide np stretching rs return doesn't make it over the net
+P00000293	monumental serve in the corner is an ace
+P00000294	fp produces good wide serve np just manages a rs return a few shots exchanged np ls hits the net
+P00000295	double fault
+P00000296	fp arrows a good out wide np is unable to return it over the net
+P00000297	quick serve fp returns a quick ls return couple of shots exchanged fp strokes a ls cross-court winner at net
+P00000298	np arrows a bodyline serve fp puts back a rs return coming to net np struggles to keep a cross-court rs in a rally
+P00000299	np hits a flat serve at t fp rs return lands long
+P00000300	np hits a serve out wide fp has no answer to it
+P00000301	quick serve fp returns a rs return couple of shots exchanged np rs goes outside the court
+P00000302	bodyline serve fp slice rs return lands long
+P00000303	np arrows a bodyline serve fp struggles with it
+P00000304	np serves a heavy serve out wide it's an ace
+P00000305	quick serve fp crafts a rs return couple of shots exchanged fp blasts a ls winner cross-court
+P00000306	np aims a high kick serve at the t fp crafts a ls return extended rally fp rs lob lands long of the court
+P00000307	np hits a flat serve at t it's an ace
+P00000308	np hits a bodyline serve fp rs return just lands wide
+P00000309	quick serve fp hammers a ls return np unable to get it back
+P00000310	good serve out wide fp crafts a rs return good rally fp ls lands just wide of the court
+P00000311	fine serve np works a ls slice return intense rally np rs is unable to clear the net
+P00000312	quick serve np returns a rs return fp hits a rs straight into the net
+P00000313	fine serve placed at t np returns a ls slice return short rally np nets a rs down the line
+P00000314	fine serve np puts back a ls return intense rally fp rushes to net and punches a ls volley winner
+P00000315	fp hits a flat serve at t np ls slice return a few shots exchange np rs down the line lands long
+P00000316	good serve sent at t np delivers a ls return brief rally fp miss-hits a ls and fails to clear the net
+P00000317	quick serve np returns a quick ls return fp sprays a ls outside the court
+P00000318	good slice serve np ls return lands long of the court
+P00000319	good serve np just manages a ls return fp comes to net a smashes a ls winner
+P00000320	slice serve np fails to put it back
+P00000321	quick serve np returns a rs return couple of shots exchanged fp flashes a ls cross-court winner
+P00000322	np aims a high kick serve fp works a ls return extended rally np cross-court ls is not able to clear the net
+P00000323	fine serve placed at t fp returns a quick ls return testing rally np comes in quickly and volleys a rs winner
+P00000324	np hits a bodyline serve fp has no answer to it
+P00000325	np produces a bodyline serve fp is unable to return it over the net
+P00000326	double fault
+P00000327	mighty serve down the t is an ace
+P00000328	quick serve fp returns a ls return couple of shots exchanged np goes for a rs down the line but misses the target
+P00000329	good serve aimed at t is an ace
+P00000330	heavy serve aimed out wide fp delivers a ls return np cross-court ls is not able to clear the net
+P00000331	np serves a high kick serve down the t fp works a ls return intense rally np moves closer to net goes for a ls volley but struggles to execute it properly
+P00000332	np aims a high kick serve fp returns a quick rs return extended rally fp cross-court ls lands wide of the court
+P00000333	fine serve placed out wide fp returns a rs return short rally np cross-court ls lands at the net
+P00000334	fp serves a high kick serve np delivers a ls return intense rally np sends a ls cross-court out of the court
+P00000335	quick serve np crafts a ls return fp digs in a rs winner down the line
+P00000336	fp serves a good one np works a ls return brief rally np puts a rs into the net
+P00000337	good serve out wide np returns a ls return fp strokes a ls cross-court winner
+P00000338	fine serve np delivers a rs return brief rally np ls slice lands wide of the court
+P00000339	quick serve np returns a quick rs return good rally fp dumps a rs volley into the net
+P00000340	fast serve down t is an ace
+P00000341	good serve in the middle np crafts a ls return short rally np produces a rs cross-court winner
+P00000342	good serve in the middle np crafts a ls return good rally np rs cross-court lands long
+P00000343	quick serve np returns a ls return brief rally fp charges towards the net and hits a rs volley winner
+P00000344	good serve sent at t np delivers a ls return well contensted rally fp moves upto the net and places a rs volley winner
+P00000345	fine serve np puts back a ls return brief rally np rs goes outside the court
+P00000346	quick serve np crafts a ls return couple of shots exchanged np produces a ls winner down the line
+P00000347	fp serves a good one np works a ls return short rally np hits a ls winner down the line
+P00000348	flat serve aimed at t np delivers a ls return short rally np cross-court ls catches the net
+P00000349	fine serve np delivers a ls return good rally fp rs goes into the the net
+P00000350	fp aims a fine bodyline np only manages a rs that hits the net
+P00000351	fp serves a good one np returns cross-court ls slice fp cross-court ls fails to make it over the net
+P00000352	good serve in the middle np crafts a ls return short rally fp ls fails to land inside the court
+P00000353	fp hits a fast serve out wide np has no answer to it
+P00000354	fp goes for a out-wide serve np works a rs return fp rs lands out-side the court
+P00000355	fp aims a high kick serve np crafts a ls return extended rally np ls slice goes straight into the net
+P00000356	fp hits a flat serve at t np ls return just lands wide
+P00000357	good serve in the middle np returns a ls return long rally fp produces a rs cross-court winner
+P00000358	flat serve down t is an ace
+P00000359	good serve out wide fp returns a cross-court rs brief rally fp misses a ls volley at net
+P00000360	np hits a flat serve at t it's an ace
+P00000361	np hits a good serve out wide fp returns a good rs return short rally fp misses a ls lob down the line
+P00000362	np aims a bodyline serve fp rs return is wide
+P00000363	np serves a good one fp puts back a rs return good rally np hits a ls cross-court but it lands long
+P00000364	np arrows a bodyline serve fp struggles with it
+P00000365	great serve down the t is an ace
+P00000366	quick serve fp returns a rs return np produces a ls winner down the line
+P00000367	fp serves a good one np delivers a rs return fp sends a ls out of the court
+P00000368	good serve in the middle np returns a quick ls return good rally np comes to net and hits a ls volley winner
+P00000369	fast serve down t np ls slice fails to land in the court
+P00000370	great serve in the corner is an ace
+P00000371	fp serves in the middle np manages a rs return good rally np blasts a rs winner cross-court
+P00000372	wide serve catches the line and is an ace
+P00000373	good serve down t np crafts a ls slice return fp slams a ls winner down the line
+P00000374	fine serve placed at t np works a rs return couple of shots exchanged fp cross-court rs lands just wide
+P00000375	good serve out wide np just manages a rs return fp hits a rs cross-court winner
+P00000376	good serve out wide np crafts a ls return fp diving rs volley is a miss-hit
+P00000377	fine serve at t np ls return lands long
+P00000378	good serve in the middle np crafts a ls return fp cross-court ls fails to land inside the court
+P00000379	fine serve np works a ls return brief rally np rs down the line just lands long
+P00000380	quick serve np returns a ls return fp rs lands at the net in the middle
+P00000381	good serve aimed at t np only reaches to it
+P00000382	fp hits a flat serve at t np struggles to put it back
+P00000383	fine serve np puts back a ls return brief rally np cross-court rs finds the net in the middle
+P00000384	good serve np fails to get it back
+P00000385	fp serves a good one np works a ls return short rally fp hits a ls but fails to clear the net
+P00000386	good serve in the middle np returns a ls return good rally fp cross-court ls finds the net in the middle
+P00000387	fine serve np delivers a ls return fp rs flies outside the court
+P00000388	fp aims a fine serve wide np just manages a ls slice return fp comes to net and hits a ls winner
+P00000389	fp serves a good one np puts back a ls return good rally np sends a rs cross-court into the net
+P00000390	fp hits a in the middle np hits a ls return short rally fp comes to net and hits a rs volley winner
+P00000391	fine serve down the t is an ace
+P00000392	fast serve down the t fp return flies into net
+P00000393	bodyline serve fp ls return np rushes to net and smashes a rs winner
+P00000394	high kick serve fp returns a rs return short rally np comes to net attempts a rs smash but it hits the net
+P00000395	fine serve fp is unable to return it
+P00000396	heavy serve aimed at t fp is unable to return it
+P00000397	fast serve fp rs return lands out
+P00000398	good serve in the middle fp returns a ls return good rally np goes for a rs down the line but misses the target
+P00000399	massive serve down the t is an ace
+P00000400	np hits a good serve fp struggles with it
+P00000401	quick serve is an ace
+P00000402	fp arrows a wide serve np struggles with it
+P00000403	fp hits a fast serve in the middle np ls lands out
+P00000404	quick serve np returns a rs return fp pulls a ls cross-court wide of the court
+P00000405	fp serves a good one np delivers a ls return well contensted rally fp comes to net attempts a ls volley but fails to make it over the net
+P00000406	good serve in the middle np returns a quick rs return short rally fp miss-hits a ls and it lands out
+P00000407	fine serve np puts back a ls return fp sprays a ls into the net
+P00000408	heavy serve aimed at t np crafts a rs return fp blasts a ls winner down the line
+P00000409	good serve aimed at t np only reaches to it
+P00000410	good serve in the middle np returns a ls return short rally fp pulls a ls cross-court into the net
+P00000411	quick serve down the t is an ace
+P00000412	short angled serve np only manages to touch it
+P00000413	fp serves a good one np puts back a ls return good rally np struggles to keep a cross-court rs in a rally
+P00000414	double fault
+P00000415	fast serve np is unable to return it
+P00000416	fp produces a bodyline serve np is unable to return it
+P00000417	good serve down t np ls return lands long of the court
+P00000418	good serve fp hits a shallow rs return np comes to net and hits a rs winner
+P00000419	np hits a bodyline serve fp has no answer to it
+P00000420	np aims a fine serve at t fp rs return doesn't make it over the net
+P00000421	good serve fp miss-hits into the net
+P00000422	np hits a flat in the middle fp hits a good ls return np ls goes long
+P00000423	fine serve fp delivers a rs return but it lands wide
+P00000424	quick serve fp returns a quick rs return short rally fp ls drop-shot is a winner
+P00000425	 huge serve guided wide fp puts back a rs return np flashes a rs cross-court winner
+P00000426	np hits a flat serve at t it's an ace
+P00000427	fine serve fp works a rs return brief rally fp cross-court rs lands at the net
+P00000428	good serve wide np crafts a rs return a few shots exchanged np rs hits the net in the middle
+P00000429	good bodyline serve fp manages a ls return np rushes to net fp hits a rs into the net
+P00000430	np serves down the t fp returns a rs return huge rally np hits a rs cross-court into the net
+P00000431	fp serves in the middle np hits a ls return short rally np rs lands wide
+P00000432	huge serve wide is an ace
+P00000433	np serves a bodyline serve fp manages a rs return brief rally fp rs hits the net
+P00000434	fp aims a good serve down the t np is unable to return it
+P00000435	good serve in the middle fp returns a rs return short rally np runs to the net crafts a rs volley but misses the target
+P00000436	good serve in the middle fp returns a rs return good rally np comes in quickly and volleys a ls winner
+P00000437	fp serves a high kick serve np delivers a ls return lengthy exchange between the players fp cross-court rs fails to land inside the court
+P00000438	quick serve np returns a quick ls return good rally np fails to keep a cross-court rs in the play
+P00000439	mighty serve is an ace
+P00000440	np hits a flat serve at t fp struggles to put it back
+P00000441	np arrows a good serve at t fp is unable to return it
+P00000442	flat serve aimed at t fp delivers a rs return np comes to net and slaps a ls cross-court winner
+P00000443	double fault
+P00000444	fine serve placed at t fp crafts a rs return short rally fp cross-court rs lands at the net
+P00000445	fine serve fp puts back a rs return brief rally fp strokes a ls lob cross-court winner
+P00000446	slice serve fp fails to put it back
+P00000447	quick serve pointed out wide fp delivers a ls return np hits a ls long out of court
+P00000448	good serve in the middle fp returns a rs return good rally np ls cross-court hit goes out of court
+P00000449	good serve sent at t fp crafts a rs return brief rally fp cracks a rs down the line but it's wide
+P00000450	quick serve fp returns a ls return np strokes a rs cross-court winner
+P00000451	np aims a high kick serve fp returns a rs return a few shots exchanged fp cross-court rs catches the net
+P00000452	np arrows a bodyline serve fp struggles with it
+P00000453	quick out-wide down the t np stretches to return a ls fp comes to net and slams a ls winner
+P00000454	quick serve np returns a ls return long rally fp ls finds the net
+P00000455	fp serves a good one np delivers a ls return good rally fp reaches to the net and places a ls volley winner
+P00000456	fp arrows a good serve in the corner np ls slice hits the net
+P00000457	huge serve guided at t np puts back a ls return a few shots exchanged np rushes to net and hits a rs smash winner
+P00000458	quick serve np crafts a ls return good rally fp pulls ls into the net
+P00000459	good serve down the t np return doesn't make it over the net
+P00000460	fp arrows a bodyline serve np returns a cross-court ls slice good rally np cross-court ls lands just wide
+P00000461	fine bodyline serve np manages a ls return brief rally np hits a rs lob which doesn't make it over the net
+P00000462	fast wide serve np is unable to return it
+P00000463	bodyline serve np crafts a ls return a few shots exchanged np rs cross-court lands just long
+P00000464	good serve in the middle np crafts a ls return fp pulls a ls cross-court volley into the net
+P00000465	fp arrows a good serve at t np ls return just lands long
+P00000466	flat serve aimed at t fp returns a rs return hard fought rally fp charges towards the net and hits a rs volley winner
+P00000467	np serves a heavy ace
+P00000468	np arrows a good serve in the middle fp struggles with it
+P00000469	fine serve fp puts back a rs return np rs goes outside the court
+P00000470	quick serve fp crafts a rs return couple of shots exchanged fp sends a ls outside the court
+P00000471	np serves a good one fp works a rs return fp over-cooks a ls slice which lands long
+P00000472	good serve fp returns a rs return long rally np comes to net and slaps a ls winner down the line
+P00000473	np arrows a good bodyline serve fp is unable to return it
+P00000474	fine serve fp returns a quick ls return winner
+P00000475	np aims a high kick serve fp returns a quick ls return a few shots exchanged fp produces a rs winner down the line
+P00000476	good serve fp fails to put it back
+P00000477	np aims a bodyline serve fp delivers a rs return np slaps a rs winner down the line
+P00000478	fp aims a fine serve at t np only manages to touch it
+P00000479	fp serves a good one np delivers a ls return good rally np runs to the net and places a rs smash winner
+P00000480	good serve in the middle np returns a quick ls return short rally np produces a ls winner down the line
+P00000481	fp hits a bodyline serve np has no answer to it
+P00000482	quick serve np crafts a ls return couple of shots exchanged np hits a rs but fails to clear the net
+P00000483	fp serves a good one np works a ls return good rally fp nets a ls
+P00000484	good serve in the middle np returns a rs return long rally fp produces a ls cross-court winner
+P00000485	fine serve np delivers a rs return brief rally fp cross-court ls goes into the the net
+P00000486	quick serve np returns a ls return good rally fp cross-court ls fails to clear the net in the middle
+P00000487	fp serves a good bodyline serve np manages a ls return long rally fp slams a ls winner down the line
+P00000488	fp arrows a serve down the t np struggles to return it over the net
+P00000489	fp hits a bodyline serve np hits a ls return brief rally np ls hits the net in the middle
+P00000490	fp aims a fine serve at t it's an ace
+P00000491	good serve np hits a ls return fp hits a ls winner down the line
+P00000492	good serve np fails to put it back over the net
+P00000493	fp arrows a good serve in the middle np manages a ls return fp hits a ls winner cross-court
+P00000494	heavy bodyline serve fp crafts a rs return couple of shots exchanged np produces a rs cross-court winner at net
+P00000495	np serves a good one fp works a rs return short rally np hits a rs winner down the line
+P00000496	good serve in the middle fp crafts a ls return a few shots exchanged np rs cross-court lands long
+P00000497	quick serve fp returns a quick rs return couple of shots exchanged fp nets a ls
+P00000498	np serves a good one fp puts back a rs return a few shots exchanged np struggles to keep a cross-court rs in the court
+P00000499	heavy serve aimed at t fp returns a quick ls return short rally np pulls a ls cross-court wide of the court
+P00000500	np serves in the middle fp returns a rs return np fails to keep a rs in the play
+P00000501	quick serve fp returns a rs return couple of shots exchanged np surges towards the net and hits a smash winner
+P00000502	good serve aimed at t fp miss-hits a rs wide of the court
+P00000503	np serves an ace in the corner
+P00000504	fine serve fp is unable to return it over the net
+P00000505	np aims a fine serve out wide fp reaches for a rs return np comes to net and slams a rs winner
+P00000506	slice serve fp is unable to return it
+P00000507	np serves an ace wide
+P00000508	fp arrows a good serve at t np just manages a ls return fp slams a ls winner
+P00000509	fp produces a good serve in the corner np just manages a ls return fp slams a rs winner down the line
+P00000510	good serve in the middle np returns a ls return np cross-court ls catches the net
+P00000511	good serve in the middle np crafts a ls return fp sends a ls cross-court wide of the court
+P00000512	fp serves a high kick serve np works a ls return intense rally np fails to keep a cross-court ls in the play
+P00000513	nice serve by fp np faces difficulty in returning it
+P00000514	fine serve placed out wide np returns a ls return short rally fp strokes a rs cross-court winner
+P00000515	fine serve np puts back a rs return fp produces a rs cross-court winner
+P00000516	heavy serve aimed at t np works a rs return couple of shots exchanged fp hits a rs drop-shot winner
+P00000517	good serve aimed in the middle fp miss-hits into the net
+P00000518	fine serve fp delivers a rs return brief rally fp attempts a ls cross-court but it lands wide
+P00000519	np aims a fine serve at t fp only manages to touch it
+P00000520	np serves a good one fp puts back a rs return np cross-court rs finds the net
+P00000521	monumental serve is an ace
+P00000522	fine serve fp works a rs return brief rally np cross-court rs lands out-side the court
+P00000523	quick serve fp returns a rs return hard fought rally fp comes in quickly tries a rs volley but fails to land it in the court
+P00000524	good serve aimed at t fp only reaches to it
+P00000525	np hits a flat serve at t it's an ace
+P00000526	fine serve fp puts back a rs return brief rally np comes in quickly tries a rs volley but fails to clear the net
+P00000527	np serves a good one fp works a rs return good rally fp cross-court rs lands at the net
+P00000528	good serve in the middle np returns a ls return good rally fp ls goes outside the court
+P00000529	fine serve np delivers a ls return a couple of shots exchanged np sends a rs cross-court out of the court
+P00000530	quick serve np returns a quick ls return couple of shots exchanged np blasts a rs winner down the line
+P00000531	fp serves a good one np puts back a ls return good rally fp hits a ls winner down the line
+P00000532	good serve in the middle np crafts a rs return brief rally fp sprays a ls outside the court
+P00000533	fp serves a high kick serve np delivers a ls return good rally np cross-court ls fails to clear the net
+P00000534	quick serve np returns a ls return good rally np cross-court rs slice lands out-side the court
+P00000535	bodyline serve np has no answer to it
+P00000536	good serve in the middle np returns a quick rs return long rally np rs is unable to clear the net
+P00000537	fine serve np puts back a ls return a few shots np struggles to keep a cross-court rs in a rally
+P00000538	fp produces a bodyline serve np delivers a ls return couple of shots exchanged np slaps a ls winner down the line
+P00000539	bodyline serve np has no answer to it
+P00000540	good wide serve np manages a rs return a few shots exchanged fp cross-court rs just lands wide
+P00000541	fast serve at t np is unable to return it
+P00000542	np serves a high kick serve fp delivers a rs return brief rally np cross-court rs fails to land inside the court
+P00000543	quick serve fp returns a quick rs return couple of shots exchanged np miss-hits a rs volley at net
+P00000544	np serves a good one fp puts back a rs return well contensted rally np moves upto the net and places a ls volley winner
+P00000545	np hits a flat serve at t fp struggles to put it back
+P00000546	fine serve fp works a ls return lengthy exchange between the players fp cross-court ls lands out-side the court
+P00000547	np arrows a wide serve fp returns a rs return couple of shots exchanged np hits a rs winner down the line
+P00000548	np serves a good one fp delivers a rs return good rally fp hits a ls winner down the line
+P00000549	np aims a wide serve fp returns a rs return np produces a rs cross-court winner at net
+P00000550	sizzling serve down the t is an ace
+P00000551	np goes for a out-wide serve fp crafts a rs return couple of shots exchanged fp cross-court rs is not able to clear the net
+P00000552	np serves a heavy ace
+P00000553	double fault
+P00000554	fp hits a good serve np hits a ls return a few shots exchanged np hits a rs long
+P00000555	good serve aimed at t np only reaches to it
+P00000556	 double fault
+P00000557	fp goes for a serve down the t np crafts a ls return hard fought rally fp cross-court rs lands out-side the court
+P00000558	fp serves a good one np delivers a ls return good rally fp sends a ls cross-court out of the court
+P00000559	high kick serve np returns a ls return long rally fp struggles to keep a cross-court rs in the court
+P00000560	fine serve np puts back a ls return intense rally np flashes a rs cross-court winner
+P00000561	heavy serve aimed at t np works a ls return huge rally fp sends a ls into the net
+P00000562	fp aims a high kick serve np crafts a ls return fp cross-court rs clips the tape and lands out of play
+P00000563	np arrows a bodyline serve fp struggles with it
+P00000564	good serve down the t fp ls return hits the net
+P00000565	quick serve couple of shots exchanged np runs to net and hits a rs wide of the court
+P00000566	good serve aimed in the middle fp manages a rs slice return long rally fp rs slice lands out of court
+P00000567	np hits a flat serve at t fp hits a rs return brief rally fp ls down the line goes into the net
+P00000653	huge serve is an ace
+P00000654	great wide serve is an ace
+P00000655	fast serve in the corner fp just gets a racquet to it but it's into the net
+P00000656	fast serve is an ace out wide
+P00000657	good serve in the middle fp hits a rs return but it lands wide of the court
+P00000658	fine serve down the t fp returns a ls return good rally fp produces a rs cross-court winner
+P00000659	quick serve fp returns a ls return couple of shots exchanged fp hits a rs winner down the line
+P00000660	double fault
+P00000661	fine serve fp returns a quick rs return brief rally np sends a ls cross-court out of the court
+P00000662	quick serve np returns a ls return couple of shots exchanged np ls slice fails to clear the net
+P00000663	good serve in the middle np returns a ls return short rally fp pulls hits a ls down the line wide of the court
+P00000664	fp arrows a good serve at t np is unable to return it
+P00000665	quick serve np returns a quick rs return couple of shots exchanged np rs is unable to clear the net
+P00000666	nice serve by fp np faces difficulty in returning it
+P00000667	fine serve ls return from np cross-court lands wide
+P00000668	fp hits a good serve np ls return just lands long
+P00000669	fp serves a good one np returns a quick ls return np comes to net and hits a rs winner
+P00000670	good serve down the t np returns a rs return brief rally np fails to keep a cross-court rs in the play
+P00000671	wide angled serve np puts back a rs return rally np slaps a ls winner down the line
+P00000672	heavy serve aimed at t np crafts a rs return rally fp blasts a ls winner down the line
+P00000673	slice serve down the t fp with a rs return np hits a ls into the net
+P00000674	fine serve fp returns a ls return np hits a ls winner down the line
+P00000675	np arrows a bodyline serve fp works a rs return extended rally np comes to net attempts a rs volley but fails to make it over the net
+P00000676	heavy serve aimed at t fp crafts a ls return np thumps a rs winner down the line
+P00000677	sizzling serve down the t is an ace
+P00000678	np serves a heavy ace out wide
+P00000679	fine serve rs return from fp finds the net
+P00000680	np produces a bodyline serve fp returns a quick rs return couple of shots exchanged np cross-court rs fails to land inside the court
+P00000681	np serves a good one fp returns a ls return winner which clips the net tape and drops over
+P00000682	np arrows a good serve in the middle fp rs return lands wide
+P00000683	quick serve fp crafts a rs return huge rally np comes to net and fails to keep a rs in the play
+P00000684	np serves a good one fp returns a quick rs return rally fp cross-court rs catches the net
+P00000685	fine serve fp delivers a rs return brief rally np attempts a rs but fails to make it over the net
+P00000686	gigantic serve in the corner is an ace
+P00000687	np produces a bodyline serve fp crafts a rs return good rally np comes to net attempts a rs volley but fails to make it over the net
+P00000688	np serves a high kick serve fp returns a rs return lengthy exchange between the players np sends a ls cross-court out of the court
+P00000689	quick serve in the corner is an ace
+P00000690	fp hits a flat serve at t np struggles to get it back
+P00000691	sharp angled slice serve is an ace
+P00000692	fp aims a high kick serve np delivers a ls return fp rs down the line falls into the net
+P00000693	fine serve np shoots a rs return winner
+P00000694	cannon serve is an ace
+P00000695	nice serve by fp np faces difficulty in returning it
+P00000696	fp aims a bodyline serve np returns a quick rs return fp hits a cross-court ls winner which clips the net tap on the way through
+P00000697	fp arrows a bodyline serve np works a ls return np rushes to net and smashes a rs smash winner cross-court
+P00000698	quick serve np crafts a rs return couple of shots exchanged np hits a rs winner
+P00000699	fp hits a acute angled slice serve np works a rs return fp fails to keep a cross-court rs in the play
+P00000700	fp serves a high kick serve np shoots a ls return winner
+P00000701	fast serve down the t ls return from np a few shots np unable to keep a rs in play
+P00000702	fine serve np hits a rs return good rally np rs down the line lands long of the court
+P00000703	slice serve np rs return just lands long
+P00000704	fp serves a good one np crafts a rs return fp struggles to keep a cross-court ls in court
+P00000705	fp arrows a bodyline serve np returns it into the net
+P00000706	double fault
+P00000707	high kick serve fp generates a rs return winner
+P00000708	fine serve fp is unable to return it in the court
+P00000709	quick serve fp crafts a ls return np rs flies outside the court
+P00000710	np serves a heavy serve down the t which is an ace
+P00000711	good serve in the middle fp returns a ls return rally fp strokes a rs cross-court winner
+P00000712	fine serve fp is unable to return it
+P00000713	np aims a high kick serve fp guides a rs cross-court return then rushes to net and volleys a winner past np
+P00000714	good serve fp works a rs return good rally np smacks a rs winner cross-court
+P00000715	fine serve fp works a rs return np smacks a rs winner down the line
+P00000716	monumental serve is an ace
+P00000717	sharp angled slice serve np rs return is long
+P00000718	good serve in wide np returns a ls return long rally fp sends a ls down the line outside the court
+P00000719	quick serve np works a ls return huge rally np whips a ls cross-court winner
+P00000720	fp serves a good one np works a rs return rally np cross-court rs lands out-side the court
+P00000721	cannon serve wide is an ace
+P00000722	fine serve np is unable to return it
